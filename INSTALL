@@ -1,0 +1,9 @@
+Building Miracle
+
+See doc/readme-qt.rst for instructions on building Miracle-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Miracle.
+
+See doc/build-*.txt for instructions on building miracled,
+the intended-for-services, no-graphical-interface, reference
+implementation of Miracle.
